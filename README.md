@@ -1,7 +1,6 @@
 # Plant-Disease-Detection-using-CNN-and-Streamlit
 **Tech meets agri in our Plant Disease Detection Project! Podha help farmers reduce crop failure by detecting diseases at early stages 🌱🔬 Open-source ML &amp; image analysis combine to safeguard crops, ensuring sustainable yields. Join us to nurture greener tomorrows. #PlantHealth #AIforAgri**
 
-![image](https://github.com/geeker-com/Podha-Plant-Disease-Prediction-using-CNN-and-Streamlit/assets/76612251/90289e02-ad0a-4b6f-922a-4de173ef48d5)
 
 
 
@@ -42,5 +41,5 @@ The following packages are required to run the app:
 
 You can install them using the provided `requirements.txt` file:
 
-If you have any questions or feedback, feel free to contact me at harshitpokhriyal1729@gmai.com.
+If you have any questions or feedback, feel free to contact me at vaibhavtiwari986gmail.com.
 
