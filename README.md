@@ -12,7 +12,7 @@
 4. Navigate to the project directory.
 5. Install required packages: run this command on termainal "pip install -r requirments.txt" without quotations.
 
-Trained Model link ---https://drive.google.com/file/d/1Xns6liq0twIYB3a80KLLXaseiYeF2Rr3/view?usp=sharing
+Trained Model link ---https://drive.google.com/file/d/1MuenUNRGw53_ElLZw5u1VlIcg8aWkcBw/view
 Download the model which is a .h5 file and place in this same project directory.
 
 Dataset link---https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
