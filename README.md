@@ -1,5 +1,5 @@
 # Plant-Disease-Detection-using-CNN-and-Streamlit
-**Tech meets agri in our Plant Disease Detection Project! Podha help farmers reduce crop failure by detecting diseases at early stages 🌱🔬 Open-source ML &amp; image analysis combine to safeguard crops, ensuring sustainable yields. Join us to nurture greener tomorrows. #PlantHealth #AIforAgri**
+**Tech meets agri in our Plant Disease Detection Project! Leafloom help farmers reduce crop failure by detecting diseases at early stages 🌱🔬 Open-source ML &amp; image analysis combine to safeguard crops, ensuring sustainable yields. Join us to nurture greener tomorrows. #PlantHealth #AIforAgri**
 
 
 
@@ -12,7 +12,7 @@
 4. Navigate to the project directory.
 5. Install required packages: run this command on termainal "pip install -r requirments.txt" without quotations.
 
-Trained Model link ---https://drive.google.com/file/d/1Xns6liq0twIYB3a80KLLXaseiYeF2Rr3/view?usp=sharing
+Trained Model link ---https://drive.google.com/file/d/1MuenUNRGw53_ElLZw5u1VlIcg8aWkcBw/view
 Download the model which is a .h5 file and place in this same project directory.
 
 Dataset link---https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
@@ -41,5 +41,5 @@ The following packages are required to run the app:
 
 You can install them using the provided `requirements.txt` file:
 
-If you have any questions or feedback, feel free to contact me at vaibhavtiwari986gmail.com.
+If you have any questions or feedback, feel free to contact me at vaibhavtiwari986gmail.com and anushkathapliyal2003@gmail.com
 
